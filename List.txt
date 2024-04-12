@@ -1,0 +1,13 @@
+1. Create ArrayList to store mobile numbers of 10 students
+	-Iterate over the list and print them
+	-Delete a mobile number from the list
+	-Insert a new mobile number in the list
+	-Replace a mobile in the list
+	-Iterate over the list and check if a mobile number is present in the list
+	
+2. Create LinkedList to store mobile numbers of 10 students, iterate over the list and print them.
+
+3. Create a class Employee with attributes emlpoyeeName, employeeId and employeeSalary
+	-Store 5 five employees in a list
+	-Iterate and print all the details of the employees
+	-Search for a employee who has salary more than 50,000
